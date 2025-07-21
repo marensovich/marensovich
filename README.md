@@ -63,16 +63,6 @@
 
 ###
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/marensovich/PoliceCheckerBotTG/pull/8) in [marensovich/PoliceCheckerBotTG](https://github.com/marensovich/PoliceCheckerBotTG)
-2. 💪 Opened PR [#8](https://github.com/marensovich/PoliceCheckerBotTG/pull/8) in [marensovich/PoliceCheckerBotTG](https://github.com/marensovich/PoliceCheckerBotTG)
-3. 🎉 Merged PR [#7](https://github.com/marensovich/PoliceCheckerBotTG/pull/7) in [marensovich/PoliceCheckerBotTG](https://github.com/marensovich/PoliceCheckerBotTG)
-4. 💪 Opened PR [#7](https://github.com/marensovich/PoliceCheckerBotTG/pull/7) in [marensovich/PoliceCheckerBotTG](https://github.com/marensovich/PoliceCheckerBotTG)
-5. 🎉 Merged PR [#6](https://github.com/marensovich/PoliceCheckerBotTG/pull/6) in [marensovich/PoliceCheckerBotTG](https://github.com/marensovich/PoliceCheckerBotTG)
-<!--END_SECTION:activity-->
-
-###
-
 <br clear="both">
 
 <div align="center">
