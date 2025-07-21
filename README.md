@@ -74,6 +74,8 @@
 
 ###
 
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marensovich/marensovich/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marensovich/marensovich/output/pacman-contribution-graph.svg">
