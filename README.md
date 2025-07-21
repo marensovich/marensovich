@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Я начинающий BackEnd разработчик.</h3>
+<h3 align="center">Я начинающий Java BackEnd и C# разработчик.</h3>
 
 ###
 
