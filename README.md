@@ -64,11 +64,11 @@
 ###
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5257](https://github.com/hoppscotch/hoppscotch/pull/5257#issuecomment-3095651443) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. ❌ Closed PR [#5257](https://github.com/hoppscotch/hoppscotch/pull/5257) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🗣 Commented on [#5177](https://github.com/hoppscotch/hoppscotch/issues/5177#issuecomment-3078800416) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🔒 Closed issue [#5177](https://github.com/hoppscotch/hoppscotch/issues/5177) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🗣 Commented on [#5198](https://github.com/hoppscotch/hoppscotch/issues/5198#issuecomment-3078798135) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. 🎉 Merged PR [#8](https://github.com/marensovich/PoliceCheckerBotTG/pull/8) in [marensovich/PoliceCheckerBotTG](https://github.com/marensovich/PoliceCheckerBotTG)
+2. 💪 Opened PR [#8](https://github.com/marensovich/PoliceCheckerBotTG/pull/8) in [marensovich/PoliceCheckerBotTG](https://github.com/marensovich/PoliceCheckerBotTG)
+3. 🎉 Merged PR [#7](https://github.com/marensovich/PoliceCheckerBotTG/pull/7) in [marensovich/PoliceCheckerBotTG](https://github.com/marensovich/PoliceCheckerBotTG)
+4. 💪 Opened PR [#7](https://github.com/marensovich/PoliceCheckerBotTG/pull/7) in [marensovich/PoliceCheckerBotTG](https://github.com/marensovich/PoliceCheckerBotTG)
+5. 🎉 Merged PR [#6](https://github.com/marensovich/PoliceCheckerBotTG/pull/6) in [marensovich/PoliceCheckerBotTG](https://github.com/marensovich/PoliceCheckerBotTG)
 <!--END_SECTION:activity-->
 
 ###
