@@ -74,6 +74,9 @@
 
 ###
 
-![](https://github.com/marensovich/About/blob/main/ISLEOFMANTT_1.gif)
+<div align="center">
+  <img src="https://github.com/marensovich/About/blob/main/ISLEOFMANTT_1.gif" alt="gif"  />
+</div>
+
 
 ###
