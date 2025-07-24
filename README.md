@@ -65,7 +65,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F-254-blue)
 
@@ -75,7 +75,7 @@
 
 > 📦 ? использовано в хранилище GitHub 
  > 
-> 🏆 118 вкладов в 2025 году
+> 🏆 114 вкладов в 2025 году
  > 
 > 🚫 Не в поиске работы
  > 
@@ -138,7 +138,7 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/marensovich/marensovich/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2025 11:24:28 UTC
+ Last Updated on 24/07/2025 11:43:49 UTC
 <!--END_SECTION:waka-->
 
 
