@@ -65,7 +65,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2055%20mins-blue)
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30281)](https://codetime.dev)
 
 ![Profile Views](http://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F-256-blue)
 
