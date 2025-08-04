@@ -65,11 +65,11 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F-192-blue)
+![Profile Views](http://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F-44-blue)
 
-![Lines of code](https://img.shields.io/badge/%D0%A1%20Hello%20World%20%D0%BC%D0%BD%D0%BE%D1%8E%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BE-34.4%20thousand%20%D1%81%D1%82%D1%80%D0%BE%D1%87%D0%B5%D0%BA%20%D0%BA%D0%BE%D0%B4%D0%B0-blue)
+![Lines of code](https://img.shields.io/badge/%D0%A1%20Hello%20World%20%D0%BC%D0%BD%D0%BE%D1%8E%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BE-35.1%20thousand%20%D1%81%D1%82%D1%80%D0%BE%D1%87%D0%B5%D0%BA%20%D0%BA%D0%BE%D0%B4%D0%B0-blue)
 
 **🐱 Мои данные GitHub** 
 
@@ -132,10 +132,10 @@ Linux                    8 hrs 57 mins       ███████████�
 **В основном программирую на Java** 
 
 ```text
-Java                     3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Vue                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Dart                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-C#                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Java                     4 repos             ██████████████░░░░░░░░░░░   57.14 % 
+Vue                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Dart                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C#                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
@@ -145,7 +145,7 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/marensovich/marensovich/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2025 21:47:06 UTC
+ Last Updated on 04/08/2025 22:28:13 UTC
 <!--END_SECTION:waka-->
 
 
