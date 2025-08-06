@@ -153,10 +153,13 @@ C#                       1 repo              ████░░░░░░░�
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marensovich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=react&hide_border=false&order=2" height="200" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=marensovich&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=marensovich&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marensovich&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  
+![](https://github-readme-stats.vercel.app/api?username=marensovich&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=marensovich&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marensovich&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=marensovich&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-contributor-stats.vercel.app/api?username=marensovich&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 </div>
 
 ###
