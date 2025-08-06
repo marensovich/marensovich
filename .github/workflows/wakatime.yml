@@ -18,7 +18,7 @@ jobs:
           COMMIT_MESSAGE: "Обновление статистики разработки"
           COMMIT_USERNAME: "StatsBot"
           SHOW_UPDATED_DATE: "True"
-          SHOW_LINES_OF_CODE: "True"
+          SHOW_LINES_OF_CODE: "False"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "True"
