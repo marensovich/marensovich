@@ -87,7 +87,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.9%20thousand%20lines%20of%20code-blue)
 
@@ -103,6 +103,42 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Tuesday                  64 commits          ██████████░░░░░░░░░░░░░░░   38.55 % 
+Wednesday                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Thursday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Friday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Saturday                 18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Sunday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+Java                     8 hrs 52 mins       ██████████████████████░░░   87.06 % 
+Properties               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Java Properties          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Kotlin                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+
+🔥 Editors: 
+IntelliJ IDEA            10 hrs 11 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+vpnBot                   9 hrs 34 mins       ███████████████████████░░   93.93 % 
+AudioPlayer              37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+
+💻 Operating System: 
+Linux                    10 hrs 11 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -120,7 +156,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/marensovich/marensovich/main/assets/bar_graph.png)
 
 
- Last Updated on 21:43:30 12/08/2025 UTC
+ Last Updated on 22:24:54 12/08/2025 UTC
 <!--END_SECTION:waka-->
 
 
