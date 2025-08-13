@@ -85,17 +85,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 43.1 kB Used in GitHub's Storage 
  > 
-> 🏆 144 Contributions in the Year 2025
+> 🏆 143 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,13 +106,13 @@
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Tuesday                  64 commits          █████████░░░░░░░░░░░░░░░░   36.99 % 
-Wednesday                33 commits          █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Thursday                 23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Friday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Saturday                 18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Sunday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Monday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Tuesday                  64 commits          █████████░░░░░░░░░░░░░░░░   36.78 % 
+Wednesday                33 commits          █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Friday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Saturday                 18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Sunday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
 
 
@@ -157,7 +157,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/marensovich/marensovich/main/assets/bar_graph.png)
 
 
- Last Updated on 22:24:49 13/08/2025 UTC
+ Last Updated on 22:44:53 13/08/2025 UTC
 <!--END_SECTION:waka-->
 
 
