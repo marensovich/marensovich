@@ -85,6 +85,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2024%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.7%20thousand%20lines%20of%20code-blue)
@@ -93,7 +95,7 @@
 
 > 📦 58.2 kB Used in GitHub's Storage 
  > 
-> 🏆 291 Contributions in the Year 2025
+> 🏆 294 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,11 +106,11 @@
 **I Mostly Code in Java** 
 
 ```text
-Java                     10 repos            ███████████████░░░░░░░░░░   58.82 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Java                     10 repos            ██████████████░░░░░░░░░░░   55.56 % 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
@@ -118,7 +120,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/marensovich/marensovich/main/assets/bar_graph.png)
 
 
- Last Updated on 01:46:39 17/09/2025 UTC
+ Last Updated on 01:46:45 18/09/2025 UTC
 <!--END_SECTION:waka-->
 
 
