@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=500&lines=Beginner+Java+BackEnd+Developer;Java+Spring+Boot+Developer+%F0%9F%A6%80;Bots+developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=500&lines=Beginner+BackEnd+Developer;Java+Spring+Boot+Developer+%F0%9F%A6%80;Bots+developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
