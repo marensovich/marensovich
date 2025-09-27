@@ -73,9 +73,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129.5%20thousand%20lines%20of%20code-blue)
 
@@ -83,7 +83,7 @@
 
 > 📦 114.1 kB Used in GitHub's Storage 
  > 
-> 🏆 328 Contributions in the Year 2025
+> 🏆 330 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,47 +91,6 @@
  > 
 > 🔑 9 Private Repositories 
  > 
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   103 commits         █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-Tuesday                  154 commits         ████████░░░░░░░░░░░░░░░░░   31.17 % 
-Wednesday                74 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Thursday                 44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Friday                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Saturday                 51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Sunday                   46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-Java                     18 hrs 15 mins      ███████████████████░░░░░░   74.32 % 
-C++                      2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-CMake                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Java Properties          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Properties               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-
-🔥 Editors: 
-IntelliJ IDEA            20 hrs 56 mins      █████████████████████░░░░   85.23 % 
-CLion                    3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-
-🐱‍💻 Projects: 
-KIPFIN_BackEnd           15 hrs 43 mins      ████████████████░░░░░░░░░   63.99 % 
-TestMod                  3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-example_app              2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-aui                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-JarHacker                1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-
-💻 Operating System: 
-Linux                    15 hrs 44 mins      ████████████████░░░░░░░░░   64.03 % 
-Windows                  8 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.97 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -149,7 +108,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/marensovich/marensovich/main/assets/bar_graph.png)
 
 
- Last Updated on 01:44:28 27/09/2025 UTC
+ Last Updated on 08:41:33 27/09/2025 UTC
 <!--END_SECTION:waka-->
 
 
