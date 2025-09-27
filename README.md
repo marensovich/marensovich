@@ -71,48 +71,6 @@
 
 ###
 
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2040%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129.5%20thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 114.1 kB Used in GitHub's Storage 
- > 
-> 🏆 330 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I Mostly Code in Java** 
-
-```text
-Java                     10 repos            █████████████░░░░░░░░░░░░   52.63 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/marensovich/marensovich/main/assets/bar_graph.png)
-
-
- Last Updated on 08:41:33 27/09/2025 UTC
-<!--END_SECTION:waka-->
-
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
