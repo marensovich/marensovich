@@ -66,24 +66,18 @@
 
 </div>
 
-<!--START_SECTION:activity-->
+###
 
+## 📊 GitHub Stats
 
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marensovich&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F74C00&icon_color=F74C00" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marensovich&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F74C00" />
+</div>
 
-1. ❗ Opened issue [#2930](https://github.com/discord-jda/JDA/issues/2930) in [discord-jda/JDA](https://github.com/discord-jda/JDA)
-
-2. 🎉 Merged PR [#8](https://github.com/marensovich/WarezNet/pull/8) in [marensovich/WarezNet](https://github.com/marensovich/WarezNet)
-
-3. 🎉 Merged PR [#9](https://github.com/marensovich/WarezNet/pull/9) in [marensovich/WarezNet](https://github.com/marensovich/WarezNet)
-4. 🎉 Merged PR [#10](https://github.com/marensovich/WarezNet/pull/10) in [marensovich/WarezNet](https://github.com/marensovich/WarezNet)
-5. 💪 Opened PR [#10](https://github.com/marensovich/WarezNet/pull/10) in [marensovich/WarezNet](https://github.com/marensovich/WarezNet)
-6. 💪 Opened PR [#9](https://github.com/marensovich/WarezNet/pull/9) in [marensovich/WarezNet](https://github.com/marensovich/WarezNet)
-
-7. 💪 Opened PR [#8](https://github.com/marensovich/WarezNet/pull/8) in [marensovich/WarezNet](https://github.com/marensovich/WarezNet)
-8. 🎉 Merged PR [#7](https://github.com/marensovich/WarezNet/pull/7) in [marensovich/WarezNet](https://github.com/marensovich/WarezNet)
-9. 🗣 Commented on [#7](https://github.com/marensovich/WarezNet/pull/7#issuecomment-3363322249) in [marensovich/WarezNet](https://github.com/marensovich/WarezNet)
-
-<!--END_SECTION:activity-->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ym0T&theme=radical&hide_border=true&background=0D1117&stroke=F74C00&ring=F74C00&fire=F74C00&currStreakLabel=F74C00" />
+</div>
 
 ## 🏗️ What I'm Building
 
@@ -127,6 +121,10 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marensovich&theme=redical&hide_border=true&bg_color=0D1117&color=F74C00&line=F74C00&point=FFFFFF" />
 </div>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 
 <div align="center">
