@@ -122,7 +122,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marensovich&theme=redical&hide_border=true&bg_color=0D1117&color=F74C00&line=F74C00&point=FFFFFF" />
 </div>
 
+<!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
 
 
 <div align="center">
