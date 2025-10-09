@@ -66,6 +66,10 @@
 
 </div>
 
+<!--START_SECTION:activity-->
+
+
+
 ###
 
 ## 📊 GitHub Stats
@@ -78,6 +82,8 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ym0T&theme=radical&hide_border=true&background=0D1117&stroke=F74C00&ring=F74C00&fire=F74C00&currStreakLabel=F74C00" />
 </div>
+
+<!--END_SECTION:activity-->
 
 ## 🏗️ What I'm Building
 
@@ -121,10 +127,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marensovich&theme=redical&hide_border=true&bg_color=0D1117&color=F74C00&line=F74C00&point=FFFFFF" />
 </div>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 
 <div align="center">
