@@ -74,9 +74,11 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=marensovich&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F74C00&icon_color=F74C00" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marensovich&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F74C00" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ym0T&theme=radical&hide_border=true&background=0D1117&stroke=F74C00&ring=F74C00&fire=F74C00&currStreakLabel=F74C00" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@marensovich&layout=compact" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marensovich&theme=radical&hide_border=true&background=0D1117&stroke=F74C00&ring=F74C00&fire=F74C00&currStreakLabel=F74C00" />
 </div>
 
 ## 🏗️ What I'm Building
