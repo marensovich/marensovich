@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://marensovich.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_site-F97316?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio website"></a>
   <a href="https://t.me/marensovich"><img src="https://img.shields.io/badge/Telegram-@marensovich-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://www.youtube.com/@marensovich228"><img src="https://img.shields.io/badge/YouTube-marensovich228-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
   <img src="https://komarev.com/ghpvc/?username=marensovich&label=Profile+views&color=F97316&style=flat-square" alt="Profile views">
@@ -24,31 +25,24 @@ I build backend services, bots and automation that solve concrete problems. My m
 - 🤖 I build Discord integrations, moderation workflows and task automation.
 - 🏍️ Away from the keyboard, you'll usually find me around motorcycles.
 
-### Selected projects
+### What I'm building
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/marensovich/MarForms">MarForms</a></h3>
-      <p>Moderated application forms for Discord communities: role checks, review queues, reports and an audit log.</p>
-      <p><code>Java 25</code> <code>Spring Boot</code> <code>React 19</code> <code>PostgreSQL</code> <code>JDA</code></p>
+    <td width="33%" valign="top" align="center">
+      <h3>☕ Backend systems</h3>
+      <p>Production-ready services and APIs built around clear domain models.</p>
+      <p><code>Spring Boot</code> <code>REST</code> <code>Security</code> <code>PostgreSQL</code> <code>Redis</code></p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/marensovich/GTA5RPUtil">GTA5RP Util</a></h3>
-      <p>A desktop tool that uses OCR to automate record checks and roster management in GTA5RP.</p>
-      <p><code>Python</code> <code>PySide6</code> <code>OCR</code> <code>Automation</code></p>
+    <td width="33%" valign="top" align="center">
+      <h3>🤖 Bots & automation</h3>
+      <p>Discord and Telegram integrations, moderation flows and tools that remove repetitive work.</p>
+      <p><code>JDA</code> <code>Aiogram</code> <code>Webhooks</code> <code>OCR</code></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/marensovich/my-portfolio">Portfolio</a></h3>
-      <p>A configurable personal portfolio with content stored separately from the application code.</p>
-      <p><code>React 19</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Vite</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>What I'm exploring</h3>
-      <p>Production backend patterns, event-driven integrations, observability and tools that remove repetitive work.</p>
-      <p><code>Docker</code> <code>Redis</code> <code>GitHub Actions</code> <code>Linux</code></p>
+    <td width="33%" valign="top" align="center">
+      <h3>⛏️ Game tooling</h3>
+      <p>Minecraft plugins, server utilities and custom gameplay mechanics with persistence.</p>
+      <p><code>Paper API</code> <code>Events</code> <code>Commands</code> <code>SQL</code></p>
     </td>
   </tr>
 </table>
@@ -60,6 +54,11 @@ I build backend services, bots and automation that solve concrete problems. My m
 </p>
 
 ### GitHub activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marensovich&theme=github_dark" alt="Andrey's GitHub stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marensovich&theme=github_dark&utcOffset=3" alt="Andrey's commit activity by time of day">
+</p>
 
 <p align="center">
   <picture>
