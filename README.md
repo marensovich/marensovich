@@ -47,10 +47,41 @@ I build backend services, bots and automation that solve concrete problems. My m
   </tr>
 </table>
 
+### Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Miramix Paint Manager</h3>
+      <p><em>Product · in development</em></p>
+      <p>A mobile app for car-paint shops: look up paint mixing formulas by colour code, scale them to the amount you need and keep your own recipes.</p>
+      <ul>
+        <li>Backend API with authentication, migrations and integration tests</li>
+        <li>Cross-platform mobile app, Telegram and MAX bots, marketing site</li>
+        <li>Monitoring with metrics, dashboards and alerts</li>
+      </ul>
+      <p><code>Spring Boot</code> <code>PostgreSQL</code> <code>Flutter</code> <code>Prometheus</code> <code>Grafana</code> <code>Docker</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧊 Minecraft render pipeline</h3>
+      <p><em>Distributed system</em></p>
+      <p>Players request a render of their build in game; a pipeline turns the world region into a 3D scene, renders images and video and posts the result to Discord.</p>
+      <ul>
+        <li>Game-server plugin → central control service → one-shot workers in containers</li>
+        <li>Stages for world conversion, headless 3D rendering and media compression</li>
+        <li>Retries and duplicate-safe delivery when a network call fails halfway</li>
+      </ul>
+      <p><code>Paper API</code> <code>Spring Boot</code> <code>Docker</code> <code>three.js</code> <code>ffmpeg</code> <code>JDA</code></p>
+    </td>
+  </tr>
+</table>
+
+<sub>Both projects are closed-source; I'm happy to walk through the architecture on a call.</sub>
+
 ### Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,react,nodejs,postgres,mysql,redis,docker,linux,git&perline=12" alt="Java, Spring, Python, TypeScript, React, Node.js, PostgreSQL, MySQL, Redis, Docker, Linux and Git">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,react,nodejs,go,flutter,postgres,mysql,redis,docker,grafana,prometheus,linux,git&perline=8" alt="Java, Spring, Python, TypeScript, React, Node.js, Go, Flutter, PostgreSQL, MySQL, Redis, Docker, Grafana, Prometheus, Linux and Git">
 </p>
 
 ### GitHub activity
