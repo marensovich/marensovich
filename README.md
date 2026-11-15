@@ -53,7 +53,7 @@ I build backend services, bots and automation that solve concrete problems. My m
   <tr>
     <td width="50%" valign="top">
       <h3>🎨 Miramix Paint Manager</h3>
-      <p><em>Product · in development</em></p>
+      <p><em>Product · released</em></p>
       <p>A mobile app for car-paint shops: look up paint mixing formulas by colour code, scale them to the amount you need and keep your own recipes.</p>
       <ul>
         <li>Backend API with authentication, migrations and integration tests</li>
